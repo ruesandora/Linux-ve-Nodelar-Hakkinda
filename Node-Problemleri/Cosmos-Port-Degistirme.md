@@ -1,6 +1,6 @@
 <h1 align="center"> Cosmos Hub'larında port değiştirme </h1>
 
-* İlk başta aşağıda ki belirtilen komutu kullanarak ve kendi projenize uyarlayarak `config.toml` klasörümüze giriş yapalım.
+> İlk başta aşağıda ki belirtilen komutu kullanarak ve kendi projenize uyarlayarak `config.toml` klasörümüze giriş yapalım.
 
 > Özetle: `.ruesd` değişecek kendi projeniz neyse, mesela .gitopiad giriş yapılacak.
 
