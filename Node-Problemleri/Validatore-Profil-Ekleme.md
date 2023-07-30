@@ -4,6 +4,8 @@
 
 > [Keybase](https://keybase.io/rues) üzerinden bir hesap oluşturuyoruz.
 
+> Hesap oluşturduğunuzda beni ve arkadaşlarınızı takip etmeyi unutmayın.
+
 > Sonra aşağıda ki adımları takip ediyoruz:
 
 > Görselde ki gibi bir profil oluştuktan sonra keyimize `16 haneli olur` tıklıyoruz.
