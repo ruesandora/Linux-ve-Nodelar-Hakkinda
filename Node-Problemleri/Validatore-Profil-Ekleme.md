@@ -4,7 +4,7 @@
 
 > [Keybase](https://keybase.io/rues) üzerinden bir hesap oluşturuyoruz.
 
-> Hesap oluşturduğunuzda beni ve arkadaşlarınızı takip etmeyi unutmayın.
+> `Hesap oluşturduğunuzda beni ve arkadaşlarınızı takip etmeyi unutmayın.`
 
 > Sonra aşağıda ki adımları takip ediyoruz:
 
