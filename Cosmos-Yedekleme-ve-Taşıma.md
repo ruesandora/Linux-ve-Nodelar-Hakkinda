@@ -48,7 +48,8 @@ Bende gördüğünüz gibi .nibid ve .quasarnode klasörleri açığa çıktı.
   
  3. Adımda Private keyiniz varsa işaretlediğim yerden dosyanızı seçin. Eğer private key yerine şifre ile bağlanıyorsanız bu adımı geçin. Sunucu şifrenizi sunucuya bağlanırken soracak.
   
-  ![image](https://user-images.githubusercontent.com/76253089/223460884-06140b98-4426-470e-a8e4-b972abbc0475.png)
+  ![image](https://github.com/enzifiri/Linux-ve-Nodelar-Hakkinda/assets/76253089/66084412-2b79-4aac-a342-a853d3d57c9c)
+
 
 ## İşaretlediğim sembole basıp gizli dosyalarımızı açığa çıkartalım. Gördüğünüz gibi .nibid klasörü açığa çıktı 
   
