@@ -1,4 +1,4 @@
-## VPS Serverınızı nasıl VPN olarak kullanabilirsiniz bunu anlatıcam.
+## VPS Serverınızı nasıl VPN olarak kullanabilirsiniz bunu anlatıcam. (Güncel 23.03.2024)
 
 Bildiğiniz gibi neredeyse bütün programlar ve sosyal medyalar kişisel bilgilerinizi alıp ürün niyetine satıyor... <br> Geçenlerde ülkemizde yaşanan üzücü patlama olayından sonra internet kullanımımız yavaşlatıldı ve neredeyse sosyal medyalara erişemeyecek durumda bırakıldık. İnternetten indirdiğiniz çoğu ücretsiz VPNler sizi adeta izleyip verilerinizi depoluyor ve bunu kendi çıkartları için kullanıyor. Ben de bundan kaçınmak için araştırmaya başladım ve vps serverların aynı zamanda vpn olarak kullanılabildiğini öğrendim. <br> <br>  Genelde çoğumuz VPSleri Ağ testnetlerini kullanmak için aldık, bu işlem VPS serverınıza ve içinde bulunan node'a hiç bir zarar vermez, uptimeı düşürmez rahatlıkla kullanabilirsiniz. 
 
